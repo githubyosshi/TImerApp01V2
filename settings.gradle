@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='TimerApp01V2'
+rootProject.name='TimerApp01v2'

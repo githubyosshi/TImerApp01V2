@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.bird_brown.timerapp01v2", appContext.getPackageName());
+        assertEquals("com.bird_brown.timerapp01", appContext.getPackageName());
     }
 }
